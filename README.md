@@ -1,3 +1,3 @@
 # PicViewer
 Appli CERI
-Dimitri
+Dimitri Baldé
