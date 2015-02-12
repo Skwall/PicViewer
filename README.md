@@ -1,2 +1,3 @@
 # PicViewer
 Appli CERI
+Dimitri
